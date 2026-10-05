@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Clarity+City:ital,wght@0,100..900;1,100..900&display=swap');
+
 body {
     margin: 0;
     background-color: lightgray;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Clarity City', sans-serif;
     color: #222;
 }
 
@@ -11,7 +13,7 @@ h1 {
 }
 
 h2{
-    font-size: 1.5rem;
+    font-size: 1.5rem;    
 }
 
 p{
@@ -20,6 +22,7 @@ p{
 
 header p{
     font-size: 1.1rem;
+    font-weight: bold;
 }
 
 header{
@@ -27,6 +30,7 @@ header{
     text-align: center;
     background-color: #222;
     color: ghostwhite;
+    
 }
 
 main{
@@ -40,6 +44,12 @@ section{
     margin-bottom: 20px;
 }
 
+.como {
+    background-color: lightblue;
+}
+#como-funciona {
+    color: #eb0000;
+}
 footer{
     padding: 20px;
     text-align: center;
