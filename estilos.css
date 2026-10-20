@@ -33,6 +33,28 @@ header{
     
 }
 
+
+nav{
+    background-color: #def90e;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a{
+    text-decoration: none;
+    color: #222;
+    font-weight: bold;
+    margin: 0 20px;
+}
+
+Nav a:hover{
+    color: crimson;
+}
+
+#estado-del-sistema{
+    background-color: lightgreen;
+}
+
 main{
     padding: 30px;
     margin: auto;
@@ -51,6 +73,20 @@ section{
     color: #eb0000;
 }
 footer{
-    padding: 20px;
+    padding: 24px 20px;
     text-align: center;
+    background-color: #222;
+    color: ghostwhite;
+    border-top: 6px solid crimson;
 }
+
+footer h2{
+    margin: 0 0 8px;
+    color: #def90e;
+}
+
+footer p{
+    margin: 0;
+}
+
+
