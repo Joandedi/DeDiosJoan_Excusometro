@@ -12,55 +12,55 @@ h1 {
     font-size: 3em;
 }
 
-h2{
-    font-size: 1.5rem;    
+h2 {
+    font-size: 1.5rem;
 }
 
-p{
+p {
     line-height: 1.5;
 }
 
-header p{
+header p {
     font-size: 1.1rem;
     font-weight: bold;
 }
 
-header{
+header {
     padding: 40px;
     text-align: center;
     background-color: #222;
     color: ghostwhite;
-    
+
 }
 
 
-nav{
+nav {
     background-color: #def90e;
     padding: 10px;
     text-align: center;
 }
 
-nav a{
+nav a {
     text-decoration: none;
     color: #222;
     font-weight: bold;
     margin: 0 20px;
 }
 
-Nav a:hover{
+Nav a:hover {
     color: crimson;
 }
 
-#estado-del-sistema{
+#estado-del-sistema {
     background-color: lightgreen;
 }
 
-main{
+main {
     padding: 30px;
     margin: auto;
 }
 
-section{
+section {
     background-color: ghostwhite;
     padding: 20px;
     margin-bottom: 20px;
@@ -69,10 +69,12 @@ section{
 .como {
     background-color: lightblue;
 }
+
 #como-funciona {
     color: #eb0000;
 }
-footer{
+
+footer {
     padding: 24px 20px;
     text-align: center;
     background-color: #222;
@@ -80,13 +82,11 @@ footer{
     border-top: 6px solid crimson;
 }
 
-footer h2{
+footer h2 {
     margin: 0 0 8px;
     color: #def90e;
 }
 
-footer p{
+footer p {
     margin: 0;
 }
-
-
